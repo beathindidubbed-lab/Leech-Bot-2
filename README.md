@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/beathindidubbed-lab/Leech-bot-2">
         <kbd>
-            <img src="https://i.ibb.co/W4vM6Jk6/logo.png" alt="Beat Anime Leech Bot">
+            <img width= 1207 src="https://i.ibb.co/W4vM6Jk6/logo.png" alt="Beat Anime Leech Bot">
         </kbd>
     </a>
 
