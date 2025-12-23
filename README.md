@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://github.com/beathindidubbed-lab/Leech-bot">
+    <a href="https://github.com/beathindidubbed-lab/Leech-bot-2">
         <kbd>
-            <img width="250" src="https://i.ibb.co/W4vM6Jk6/logo.png" alt="Beat Anime Leech Bot">
+            <img src="https://i.ibb.co/W4vM6Jk6/logo.png" alt="Beat Anime Leech Bot">
         </kbd>
     </a>
 
@@ -11,9 +11,9 @@
 
 <div align=center>
 
-[![](https://img.shields.io/github/repo-size/beathindidubbed-lab/Leech-bot?color=green&label=Repo%20Size&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/beathindidubbed-lab/Leech-bot?logo=github&labelColor=292c3b&label=Github%20Commits)](#) [![](https://img.shields.io/github/license/beathindidubbed-lab/Leech-bot?style=flat&label=License&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/beathindidubbed-lab/Leech-bot?style=flat&label=Open%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/beathindidubbed-lab/Leech-bot?style=flat&label=Closed%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/beathindidubbed-lab/Leech-bot?style=flat&label=Open%20Pull%20Requests&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/beathindidubbed-lab/Leech-bot?style=flat&label=Closed%20Pull%20Requests&labelColor=292c3b)](#)
+[![](https://img.shields.io/github/repo-size/beathindidubbed-lab/Leech-bot-2?color=green&label=Repo%20Size&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/beathindidubbed-lab/Leech-bot-2?logo=github&labelColor=292c3b&label=Github%20Commits)](#) [![](https://img.shields.io/github/license/beathindidubbed-lab/Leech-bot-2?style=flat&label=License&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/beathindidubbed-lab/Leech-bot-2?style=flat&label=Open%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/beathindidubbed-lab/Leech-bot-2?style=flat&label=Closed%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/beathindidubbed-lab/Leech-bot-2?style=flat&label=Open%20Pull%20Requests&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/beathindidubbed-lab/Leech-bot-2?style=flat&label=Closed%20Pull%20Requests&labelColor=292c3b)](#)
 :---:|:---:|
-[![](https://img.shields.io/github/languages/count/beathindidubbed-lab/Leech-bot?style=flat&label=Total%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/beathindidubbed-lab/Leech-bot?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/beathindidubbed-lab/Leech-bot?style=flat&label=Last%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/beathindidubbed-lab/Leech-bot?label=Total%20Branches&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/beathindidubbed-lab/Leech-bot?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/beathindidubbed-lab/Leech-bot?style=flat&logo=github&label=Stars&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/beathindidubbed/leechbot?icon=docker&label=Pulls&labelColor=292c3b&color=blue)](#)
+[![](https://img.shields.io/github/languages/count/beathindidubbed-lab/Leech-bot-2?style=flat&label=Total%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/beathindidubbed-lab/Leech-bot-2?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/beathindidubbed-lab/Leech-bot-2?style=flat&label=Last%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/beathindidubbed-lab/Leech-bot-2?label=Total%20Branches&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/beathindidubbed-lab/Leech-bot-2?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/beathindidubbed-lab/Leech-bot-2?style=flat&logo=github&label=Stars&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/beathindidubbed/leech-bot-2?icon=docker&label=Pulls&labelColor=292c3b&color=blue)](#)
 [![](https://img.shields.io/badge/Telegram%20Channel-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/Beat_Hindi_Dubbed) |[![](https://img.shields.io/badge/Support%20Group-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/Beat_Anime_Discussion) |
 
 </div>
@@ -426,13 +426,13 @@ Check CPU cores with `nproc` and multiply by 4, then edit `AsyncIOThreadsCount` 
 
 ### Quick Deploy
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/beathindidubbed-lab/Leech-bot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/beathindidubbed-lab/Leech-bot-2)
 
 ---
 
 ### Manual Heroku Deployment
 
-**Check the Detailed Guide:** [Click Here](https://github.com/beathindidubbed-lab/Leech-bot/wiki/Heroku-Deploy)
+**Check the Detailed Guide:** [Click Here](https://github.com/beathindidubbed-lab/Leech-bot-2/wiki/Heroku-Deploy)
 
 **Steps:**
 
